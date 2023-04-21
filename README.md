@@ -7,7 +7,7 @@
 🌟 Learn to use pip here: <a href="https://www.liquidweb.com/kb/install-pip-windows/">here</a> 🌟
 </h1>
 
-Gathers job posting data on all current postings at the site then it into an excel file. 
+Gathers job posting data on all current postings at the site then it into an excel file. The script will append to a specified file or create a new one. Hoping to save hours of data collection/entry work.
  
 </div>
 
